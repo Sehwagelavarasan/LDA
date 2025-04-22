@@ -31,7 +31,7 @@ The filtered image is displayed or downloadable.
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/facial-emotion-filter-webapp.git
+git clone https://github.com/Sehwagelavarasan/LDA?tab=readme-ov-file
 cd facial-emotion-filter-webapp
 Backend (if using Flask):
 bash
